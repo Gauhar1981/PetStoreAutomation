@@ -1,0 +1,9 @@
+2024-02-01 14:07:49.357 [main] DEBUG api.test.UserTest2 - debugging..........
+2024-02-01 14:07:49.388 [main] INFO  api.test.UserTest2 - ************** Creating User **************
+2024-02-01 14:07:54.159 [main] INFO  api.test.UserTest2 - ************** User is Created **************
+2024-02-01 14:07:54.191 [main] INFO  api.test.UserTest2 - ************** Reading User Info**************
+2024-02-01 14:07:55.304 [main] INFO  api.test.UserTest2 - ************** User Info is Displayed**************
+2024-02-01 14:07:55.307 [main] INFO  api.test.UserTest2 - ************** Updating User **************
+2024-02-01 14:07:56.381 [main] INFO  api.test.UserTest2 - ************** User Updated**************
+2024-02-01 14:07:57.430 [main] INFO  api.test.UserTest2 - ************** Deleting User **************
+2024-02-01 14:07:58.471 [main] INFO  api.test.UserTest2 - ************** User Deleted**************
